@@ -22,6 +22,7 @@ My main goal is to maintain consistency, practice regularly, learn from mistakes
 and gradually write cleaner and more efficient code. I will document my progress
 and continue improving each project as I learn new concepts.
 
+
 This journey is not just about learning Tailwind CSS—it is about 
 building a strong **frontend development foundation**, improving 
 my practical skills, and preparing myself to create professional, 
