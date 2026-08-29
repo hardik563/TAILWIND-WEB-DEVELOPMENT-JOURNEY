@@ -9,7 +9,6 @@ clean, responsive, and professional user interfaces without depending heavily on
 
 
 During this journey, I will practice important concepts such as **Flexbox, Grid, spacing,
-
 typography, colors, responsive design, positioning, borders, shadows, transitions,
 
 hover effects, and reusable components**. Rather than only watching tutorials, I will apply what I learn by building different projects and experimenting with layouts and designs.
