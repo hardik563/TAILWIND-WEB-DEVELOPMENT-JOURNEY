@@ -5,7 +5,6 @@ I am starting my journey of learning and practicing
 I will focus on understanding Tailwind’s utility-first approach and learn how to create 
 clean, responsive, and professional user interfaces without depending heavily on traditional CSS.
 
-
 During this journey, I will practice important concepts such as **Flexbox, Grid, spacing,
 typography, colors, responsive design, positioning, borders, shadows, transitions,
 hover effects, and reusable components**. Rather than only watching tutorials, I will apply what I learn by building different projects and experimenting with layouts and designs.
