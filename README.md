@@ -4,6 +4,7 @@ I am starting my journey of learning and practicing
 **Tailwind CSS** with the goal of becoming stronger in modern frontend web development. 
 
 I will focus on understanding Tailwind’s utility-first approach and learn how to create 
+
 clean, responsive, and professional user interfaces without depending heavily on traditional CSS.
 
 During this journey, I will practice important concepts such as **Flexbox, Grid, spacing,
